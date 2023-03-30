@@ -1,0 +1,7 @@
+PYTHON 
+
+```
+mamba env create -n vk-scripts -f ./py/env.yml
+mamba activate vk-scripts
+pip install -r ./py/env.txt 
+```
